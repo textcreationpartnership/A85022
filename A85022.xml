@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Life out of death a sermon preached at Chelsey, on the recovery of an honourable person. By Thomas Fuller. B.D.</title>
+            <author>Fuller, Thomas, 1608-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85022</idno>
+            <idno type="STC">Wing F2450</idno>
+            <idno type="STC">Thomason E1441_3</idno>
+            <idno type="STC">ESTC R200924</idno>
+            <idno type="EEBO-CITATION">99861538</idno>
+            <idno type="PROQUEST">99861538</idno>
+            <idno type="VID">169960</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169960)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 184:E1441[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Life out of death a sermon preached at Chelsey, on the recovery of an honourable person. By Thomas Fuller. B.D.</title>
+                  <author>Fuller, Thomas, 1608-1661.</author>
+               </titleStmt>
+               <extent>[4], 27, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Williams, at the Crown in St. Pauls Church-yard,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Danvers, John, --  Sir, 1588?-1655</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169960:1" rendition="simple:additions"/>
+            <p>Life out of Death. A SERMON Preached at CHELSEY, ON The recovery of an ho<g ref="char:EOLhyphen"/>nourable Perſon.</p>
+            <p>By <hi>Thomas Fuller.</hi> B. D.</p>
+            <p>Printed for <hi>John Williams,</hi> at the <hi>Crown</hi> in St. <hi>Pauls Church-yard.</hi> 1655.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:169960:2"/>
+            <pb facs="tcp:169960:2"/>
+            <head>TO THE Virtuous and worthy Gentle<g ref="char:EOLhyphen"/>woman, <hi>M<hi rend="sup">ris</hi> ANNE DANVERS,</hi> all increaſe of grace and happineſs.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou are the firſt Virgin of your ſex (and probably may be the laſt) to whom my pen hath addreſſed it ſelf by way of Dedication, and indeed you may challenge a juſt interest in this Sermon.</p>
+            <p>Firſt you heard it preached with that exem<g ref="char:EOLhyphen"/>plarie attention you always uſe in Gods houſe. Secondly, you ſhared deeply in the welcome occaſi<g ref="char:EOLhyphen"/>on thereof, the recoverie of your worthy Father. Thirdly, I am confident you have digeſted it in your meditations, and will bring forth the fruits thereof in your godly life.</p>
+            <p>Remember your Name importeth Grace in the language of Iſrael, and Scripture affordeth you two worthy Nameſakes, one the Mother of a Pro<g ref="char:EOLhyphen"/>phet, the other her ſelf a Propheteſs: The former frequently repaired to the Tabernacle, the latter never went out of the Temple. The aſsiduitie of your dayly Devotion to God, Dutifulneſs to your
+<pb facs="tcp:169960:3"/> Parents, and general Goodneſs to all, raiſeth me to a great aſſurance you will imitate ſuch worthy Preſidents.</p>
+            <p>Dr. <hi>Alexander Nowel,</hi> when taxed by ſome Courtiers for flattering Queen <hi>Eliſabeth</hi> in his Preaching, was wont to plead for himſelf he had no other way to inſtruct the Queen what ſhe ſhould be, but by commending her.</p>
+            <p>In like manner, I pray interpret my praiſing of you, a teaching of you; ſuffer not the brand of falſhood to fall upon my Credit. Yea, I am ſure you will endeavor to juſtifie and exceed this your Character here preſented; for the performance whereof, you ſhall never want the prayers of him who is an Indebted Servant to the root and bran<g ref="char:EOLhyphen"/>ches of your Honorable Extraction,</p>
+            <closer>
+               <signed>THOMAS FULLER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:169960:3"/>
+            <head>Life out of Death.</head>
+            <epigraph>
+               <q>
+                  <bibl>ISAIAH 38.9.</bibl>
+                  <p>The writing of <hi>Hezekiah</hi> King of <hi>Juda,</hi> when he had bin ſick, and was recovered of his ſickneſſe.</p>
+               </q>
+            </epigraph>
+            <p>IN the firſt verſe of this Chap<g ref="char:EOLhyphen"/>ter, <hi>Iſaiah</hi> is diſpatched to King <hi>Hezekiah,</hi> with a ſad meſſage, which he thus ex<g ref="char:EOLhyphen"/>preſſeth in theſe ſhort, but ſharp words. <hi>Thus ſaith the Lord. Set thy houſe in order, for thou ſhalt die and not live.</hi>
+            </p>
+            <p>At the hearing hereat, ſee the de<g ref="char:EOLhyphen"/>meanour of King <hi>Hezekiah. He turned his face to the wall and prayed unto the Lord.</hi>
+            </p>
+            <pb n="2" facs="tcp:169960:4"/>
+            <p>O the difference betwixt Hypocrites and Gods ſervants in their devotions: the former deſire <hi>Mat.</hi> 6.5. to pray in the <hi>corners of the ſtreets,</hi> that is (as the Greek word importeth) in the meet<g ref="char:EOLhyphen"/>ing where two ſtreets decuſs or thwart one another, where foure Angles come together, ſo that the hypocrite hath in effect the advantage of foure ſtreets, (two going one way, and two another) to be ſeen of men, and hard is his happ, if he prove inviſible to have none take notice of his Religion.</p>
+            <p>Clean contrary <hi>Hezekiah</hi> turneth his face to the wall, none but God and himſelf ſhall be witneſſe of what is tranſacted betwixt them, no atten<g ref="char:EOLhyphen"/>dance ſtanding by ſhall pry into his be<g ref="char:EOLhyphen"/>haviour, if any poſture or paſſage leſſe Courtly chance to fall from him in the height of his paſſion, only God ſhall ſee it, who will pity and pardon it.</p>
+            <p>Here is hearty prayer. <hi>Remember now O Lord I beſeech thee, how I have walked be<g ref="char:EOLhyphen"/>fore thee in truth, and with a perfect heart, &amp; have done that which is good in thy ſight.</hi>
+            </p>
+            <pb n="3" facs="tcp:169960:4"/>
+            <p>How is the ſame thing not the ſame thing, when ſpoken by two ſeveral men? Had that proud Phariſee in St. <hi>Lukes</hi> Goſpel, for whoſe pride the whole Temple was not large enough, except he juſtled the poor Publican, had he who in his Confeſſion acknowledg<g ref="char:EOLhyphen"/>ed all his own vertues, and the Publi<g ref="char:EOLhyphen"/>cans faults: I ſay, had he uttered theſe words of <hi>Hezekiah,</hi> he might juſtly have been conceived therein, to ſavor rank<g ref="char:EOLhyphen"/>ly of the leaven of the Phariſees ſpiri<g ref="char:EOLhyphen"/>tual pride and hypocriſie: whereas our <hi>Hezekiah</hi> pronouncing theſe words, not ſelf-prayſing, but ſelf-purging in the ſincerity of his heart, from an upright ſoul to an all ſeeing God, they reſent<g ref="char:EOLhyphen"/>ed not of pride, but whole humility, and were acceptable in the eyes of Heaven.</p>
+            <q>And Hezekiah wept ſore.</q>
+            <p>Strange, what made him take on ſo bitterly at the tidings of death. I had thought he would have embraced both meſſage and Meſſenger, if not for their own, for their ſenders ſake, I had
+<pb n="4" facs="tcp:169960:5"/> though he would have rewarded him that brought him the firſt newes of his deſired diſſolution. Was not <hi>Hezekiah</hi> aſſured that the ſetting of his Sun here in a mortal life, ſhould be the riſing thereof in a bleſſed immortality. How ill then doth thoſe teares become thoſe cheeks, thoſe ſobs and ſighes, that heart, thoſe moans and complaints, that tongue, wherein rather we ſhould have expected ſmiles and joyful accla<g ref="char:EOLhyphen"/>mations.</p>
+            <p>
+               <hi>Anſw.</hi> Double the reaſon of <hi>Hezeki<g ref="char:EOLhyphen"/>ahs</hi> grief. Firſt, becauſe though he was <hi>a good man,</hi> yet he was <hi>a man,</hi> and there<g ref="char:EOLhyphen"/>fore we wonder if unwilling to die, our ſouls and bodies have bin loving play<g ref="char:EOLhyphen"/>mates for many yeers together, and <hi>loath to depart,</hi> will be their tune at their ſeparation. Many through pain may be diſcontented to live, though notwith<g ref="char:EOLhyphen"/>ſtanding to die, ſuch a love of life is naturally implanted in every man.</p>
+            <p>Secondly, <hi>Hezekiah</hi> was unwilling to die, becauſe as yet iſſueleſs. He had no Son to ſucceed him in the Throne. We
+<pb n="5" facs="tcp:169960:5"/> all know what a great curſe barrenneſs was amongſt the Children of <hi>Iſrael,</hi> though under the Goſpel the male<g ref="char:EOLhyphen"/>diction is ſo farre removed, that wombs which bear not, and paps which ſuck<g ref="char:EOLhyphen"/>led not, are pronounced bleſſed in time of perſecution. But beſides, the general deſire of Children, common to all Jews. A greater longing for iſſue might be allowed to <hi>Hezekiah,</hi> becauſe deſcended from <hi>David.</hi> He ſtood in fair probability to have the Meſſiah, accor<g ref="char:EOLhyphen"/>ding to the fleſh ſpring from his loyns, the greateſt outward happineſs (and which might be improved to ſpiritual comfort) that humanity in that age was capable of, beſides dying without an Heire, a door was open to ambitious competitors to pretend to the Crown. So that the Land might be rent a ſun<g ref="char:EOLhyphen"/>der by civil warres betwixt ſeveral claims and titles about ſucceſſion.</p>
+            <p>Now that <hi>Hezekiah</hi> hitherto was without a Child plainly appeareth by the age of <hi>Manaſſeth</hi> his eldeſt Sonne, 2 <hi>Chron.</hi> 33.1. <hi>Manaſſeth was twelve yeers</hi>
+               <pb n="6" facs="tcp:169960:6"/> 
+               <hi>old when he began to raign.</hi> Seeing there<g ref="char:EOLhyphen"/>fore God after this time added 15. yeers to <hi>Hezekiahs</hi> life, by computation it plainly appeareth, that <hi>Manaſſeth</hi> was born three yeers after <hi>Hezekiahs</hi> recove<g ref="char:EOLhyphen"/>ry, and ſo he childleſſe at this preſent time.</p>
+            <p>Well the Prophet <hi>Iſaiah</hi> is ſent with a welcom Counter Meſſage, that <hi>Hezeki<g ref="char:EOLhyphen"/>ahs</hi> prayer was heard, and a longer leaſe of life indulged unto him, confirmed with miracle from Heaven of the going back of the Sun.</p>
+            <p>
+               <hi>Hezekiah</hi> thus reſtored to health, thought it was too low and little thanks, onely to ſpeak thanks, <hi>Li<g ref="char:EOLhyphen"/>tera ſcripta manet,</hi> whereas words quickly vaniſh away, and therefore for the better perpetuation, confirmation, and propagation of the memory of his recovery to make it the longer, the broader, the deeper to all poſterity, he entereth the ſame upon record, and putteth it on the Kalender of eternity. <hi>The writing of Hezekiah King of Judah, when he had been ſick, and was recovered of his ſickneſſe.</hi>
+            </p>
+            <pb n="7" facs="tcp:169960:6"/>
+            <p>The words preſent us with <hi>Hezekiah</hi> in a double condition, <hi>Hezekiah ſick, Hezekiah ſound, Hezekiah</hi> dying, <hi>Hezekiah</hi> living. We will follow the method of the Text, and begin with his firſt and worſt eſtate, <hi>Hezekiah</hi> ſick.</p>
+            <p>Before I go further, I am encounter<g ref="char:EOLhyphen"/>ed with a ſhrewd objection, and have no minde to meddle with it, but it will meddle with me, ſo importunate the nature thereof, and that is this. Doth not this argue ſome mutability in God to recede from his former, and take up a new reſolution? are not thoſe Princes or States branded with levity and in<g ref="char:EOLhyphen"/>conſtancy, who in one breath order and diſorder, act and repeal unconſiſtent with themſelves in their proceedings? and doth not this at leaſt fix ſome aſ<g ref="char:EOLhyphen"/>perſion of ſickleneſs on that infinite power, <hi>with whom there is no ſhadow of change?</hi> Firſt, to conclude <hi>Hezekiahs</hi> death, then to iſſue out a Command to the contrary for his longer life.</p>
+            <p>I could anſwer, <hi>let not our eye be evil, becauſe Gods is good.</hi> Let not his extraor<g ref="char:EOLhyphen"/>dinary
+<pb n="8" facs="tcp:169960:7"/> mercies make us queſtion and quarrel at his proceedings. If any Prince or State make a perfective alte<g ref="char:EOLhyphen"/>ration to the beſt, by pittying and par<g ref="char:EOLhyphen"/>doning the condemned: ſuch a com<g ref="char:EOLhyphen"/>mendable change makes them not un<g ref="char:EOLhyphen"/>like themſelves, but moſt like him who is the beſt of beings, God himſelf in my Text, turning <hi>Hezekiahs</hi> doleful meſ<g ref="char:EOLhyphen"/>ſage of death into comfort and conſo<g ref="char:EOLhyphen"/>lation by reverſing thereof.</p>
+            <p>But more plainly two anſwers may be ſhaped, this objection and it ſhall be left to the Readers. Chriſtian liberty which to prefer, or if he pleaſe to twiſt them both together. Firſt, when God ſaid in his meſſage of <hi>Hezekiah, thou ſhalt die and not live,</hi> the meaning is, Thy diſeaſe whereof now thou lieſt ſick, is deadly and mortal in the very nature thereof; as if he had ſaid, <hi>Hezekiah</hi> I acquaint thee with the true ſtate and condition of thy body, deceive not thy ſelfe by expecting life through any na<g ref="char:EOLhyphen"/>tural means: ſuch is the malignity of thy preſent malady, it is peſtiferous
+<pb n="9" facs="tcp:169960:7"/> and deadly in it ſelfe (and indeed ſome take it to be the plague ſore) place therefore no confidence in phyſick or attendance, thereby to recover thy health, which is poſſible no other way then immediate miracle from Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>Others diſtinguiſh betwixt Gods com<g ref="char:EOLhyphen"/>minatory and definitive ſentence; A definitive ſentence is abſolute like the Acts of the <hi>Medes</hi> and <hi>Perſians,</hi> admit<g ref="char:EOLhyphen"/>ting of no revocation; but a commina<g ref="char:EOLhyphen"/>tory or threatning ſentence done in <hi>Terrorem,</hi> alwayes carrieth with it a clauſe or condition of revocation, in caſe a juſt cauſe thereof appear to di<g ref="char:EOLhyphen"/>vine providence in the interval, be<g ref="char:EOLhyphen"/>twixt the pronouncing and executing of the ſentence. This clauſe is not al<g ref="char:EOLhyphen"/>wayes expreſt, but ſometimes conceal<g ref="char:EOLhyphen"/>ed in Gods boſome, like that threatning <hi>Jonah</hi> 3.4. <hi>Yet forty dayes, and Niniveh ſhall be overthrown.</hi> Alwayes provided, if in that ſpace they compound not with God by unfained repentance, parallel whereunto was this decree in
+<pb n="10" facs="tcp:169960:8"/> the Text, including upon <hi>Hezekiahs</hi> pe<g ref="char:EOLhyphen"/>titioning, a reverſion thereof without the leaſt aſperſion of levity on divine immutability.</p>
+            <p>The main Doctrine in the Text is this. <hi>Neither grace nor greatneſſe can privi<g ref="char:EOLhyphen"/>ledge any from ſickneſſe, and by conſequence, from death. Hezekiah</hi> had a double Title to make him ſickneſs-free, death-proof. Firſt, he was one of ſignall ſanctity, <hi>á non ſicut.,</hi> like unto him was none before him, neither afterwards aroſe there any in <hi>Iſrael</hi> like unto him. Secondly, he was a King, had his piety improved by power. Yet ſickneſſe was no whit afraid of the greatneſſe of his Porter, of the grimneſs of his Guard, at the gallantry of his Pentioners, at the greatneſs, at the goodneſs of his Perſon; but boldly ſeized upon him, whereof this the Rea<g ref="char:EOLhyphen"/>ſon, The statute of death is above the prerogative Royall. <hi>It is appointed of all men once to die.</hi>
+            </p>
+            <p>Seeing then it were madneſſe in meaner perſons, to flatter themſelves with hopes of conſtant health and life.
+<pb n="11" facs="tcp:169960:8"/> Here let us lay down ſome Rules, how perſons ſhould demean themſelves in the time of ſickneſſe, providing to en<g ref="char:EOLhyphen"/>tertain what is impoſſible to avoid. Theſe leſſons muſt be learned now, and practiſed hereafter. Sickneſſe is a time to ſuffer, not to do in; Patients are like Bees in winter, no flying abroad to finde freſh flowers, either they muſt ſtarve, or live on that ſtock of honey which they have provided in the ſum<g ref="char:EOLhyphen"/>mer time. Let us not have our Oyl to buy, when we ſhould have it to burn; but treaſure up good counſels whilſt we are at eaſe and health, to be put in uſe when Gods priſoners on our beds of ſickneſs. And firſt I lay down this propoſition.</p>
+            <p>It is lawful for a ſick perſon to deſire longer life, if in a right manner, and to a good end. Right manner; namely, if conditionally, ſubmitting himſelf to Gods will and pleaſure. Chriſt hath taught us this peece of ſpiritual man<g ref="char:EOLhyphen"/>ners, <hi>Mat.</hi> 26.39. <hi>Nevertheleſſe, not as I will, but as thou wilt.</hi> The Text is a good
+<pb n="12" facs="tcp:169960:9"/> end. Not to act over again our youth<g ref="char:EOLhyphen"/>ful vanities, and to be more perfect criticks in unlawful pleaſure then we have been before; but for one of theſe foure following ends.</p>
+            <p>
+               <hi>Firſt, to get a greater ſtock of grace and aſſurance of ſalvation:</hi> to obtain livelier faith, quicker hope, hotter charity, clearer knowledge, ſtronger patience, longer perſeverance.</p>
+            <p>Secondly, as to receive more grace from God. So to return more thanks to him by ſerving him in our vocation. Now the more eminent a mans calling is in Church or Common-wealth, the more may he juſtifie his importunity with God for a longer life, that he may be more effectually ſerviceable in his place. O may the Magiſtrate ſay, ſpare a little, that I may recover my ſtrength, that I may once again go up upon the bench to check vice, and countenance vertue, and reſcue the poor from the pawes of the oppreſſor. Once again may the Miniſter ſay, let me go up into the Pulpit, that I may propagate thy truth,
+<pb n="13" facs="tcp:169960:9"/> and ſuppreſſe the ſpawning errors, and ſpreading vices of our age.</p>
+            <p>Know alſo, that this Argument for longer life, may properly and patheti<g ref="char:EOLhyphen"/>cally be preſſed on God, from them who by their own pains and parents coſt, have furniſhed themſelves for abi<g ref="char:EOLhyphen"/>lities in Church or State, and being young, have not yet had the opportu<g ref="char:EOLhyphen"/>nity to vent them for Gods glory, and the good of their Country; ſuch I ſay, may zealouſly petition God, that their Sun may not ſet before it be fully riſen, nor their ſtreame dammed up as it were in the Fountain; but as they have brew<g ref="char:EOLhyphen"/>ed and prepared, ſo they may broach and ſet forth their indowments and ac<g ref="char:EOLhyphen"/>quired accompliſhments, to the glory of God, and good of his Saints and Ser<g ref="char:EOLhyphen"/>vants.</p>
+            <p>Here it will not be amiſſe, to inquire into the meaning of <hi>Davids</hi> words, when deſiring longer life, <hi>ſhall the duſt praiſe thee O Lord?</hi> whereof under cor<g ref="char:EOLhyphen"/>rection, I humbly conceive this, the na<g ref="char:EOLhyphen"/>tural ſenſe whileſt a man is alive, not
+<pb n="14" facs="tcp:169960:10"/> only his ſoul but his duſt prayſeth God, I mean his body made thereof, concur<g ref="char:EOLhyphen"/>reth in divine ſervice, and hath toge<g ref="char:EOLhyphen"/>ther with his ſoul a competent ſhare in Gods worſhip. His eyes lifted up, his hands held up his knees bowed, his tongue moved, his moyety of duſt hath its counterpart in the prayſing of God; but in a dead man, his ſoul indeed prayſeth God in Heaven, but his duſt (till glorified and united after the Re<g ref="char:EOLhyphen"/>ſurrection) hath no portion at all in prayſing God. <hi>David</hi> therefore alledgeth this as an Argument to be continued in the Land of the living, <hi>ſhall the duſt prayſe thee O Lord,</hi> that Gods ſervice might ſtill be preſerved ſo in him, that his body might not be altogether uſe<g ref="char:EOLhyphen"/>leſſe, as in dead folke, but have a porti<g ref="char:EOLhyphen"/>on of prayſing of God, conjoyned with his ſoul (as the oppoſite part of the Quire) in lauding the Lord.</p>
+            <p>Thirdly, a ſick man may deſire longer life, to ſee an eſtabliſhment in the Church of God, of theſe fluctuating times, to behold the ſame fixed to his
+<pb n="15" facs="tcp:169960:10"/> honour, and the advantage of true Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>Laſtly, He may deſire life to ſee the poſterity which God hath given him bread, and brought up in holy nurture and inſtruction, and provided for in outward maintenance, not to be left to the charity of the world, which waxeth cold in this age; but chiefly that their ſouls may be ballaſted with ſaving knowledge, <hi>not to be carried away with e<g ref="char:EOLhyphen"/>very winde of Doctrine,</hi> whileſt they are catechized in the fundamentalls of Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>But as theſe Reaſons may juſtly make one deſirous to live, ſo ought they not to prevail ſo far as to make any over<g ref="char:EOLhyphen"/>fond thereof. If therefore thou per<g ref="char:EOLhyphen"/>ceiveſt in thy ſelfe, that death hath ſeized thee, let not the foreſaid Reaſons breed in thee an unwillingneſs to de<g ref="char:EOLhyphen"/>part, ſeeing they may be <hi>unreaſoned</hi> a<g ref="char:EOLhyphen"/>gain, I mean ſo far ſatisfied, as to make thee ſubmit willingly to be diſpoſed of by Gods pleaſure.</p>
+            <p>Firſt, thou wouldeſt willingly live
+<pb n="16" facs="tcp:169960:11"/> to get more grace, but let this comfort thee, that little grace thou haſt, if true and ſincere, ſhall through Gods good<g ref="char:EOLhyphen"/>neſs be accepted to thy ſalvation, whereof if thou haſt no aſſurance (as many Servants of God have not) yet a caſting of thy ſelfe on Chriſt will with<g ref="char:EOLhyphen"/>out that aſſurance, though not ſo com<g ref="char:EOLhyphen"/>fortably, yet as certainly carry thy ſoul to Heaven.</p>
+            <p>Secondly, thou wouldeſt live longer to do God more ſervice in thy Calling; but if thou perceiveſt the day of thy diſſolution to approach, know thou haſt done all that God hath deſigned to be performed by thee. The witneſses <hi>when they had finiſhed their Teſtimony, Rev.</hi> 11.7. <hi>then the Beaſts out of the bottomleſs pit made warre againſt them, overcame and killed them.</hi> Whileſt any part, portion, parcel, or particle of their teſtimony was unfiniſhed, were it to the leaſt <hi>jota</hi> thereof, they were unconquerable by death, and ſecure from the darts there<g ref="char:EOLhyphen"/>of. Know in like manner whileſt thou haſt any thing to do, thou ſhalt not die,
+<pb n="17" facs="tcp:169960:11"/> and if death ſeizeth on thee, it is an e<g ref="char:EOLhyphen"/>vident ſigne thou haſt finiſhed what God intended to be acted by thee in this world.</p>
+            <p>Venerable Bede had almoſt finiſhed the tranſlation of the Goſpel of St. <hi>John</hi> into <hi>Engliſh,</hi> when he ſwounded away, which his <hi>Secretary</hi> ſeeing, who wrote for him (as <hi>Baruch</hi> for <hi>Jeremiah)</hi> cryed out, O maſter, there wanteth yet two or three verſes to be tranſlated, hereat the old man revived, recruited his ſpi<g ref="char:EOLhyphen"/>rits, &amp; muſtered in all the force of his minde together, held out to the finiſh<g ref="char:EOLhyphen"/>ing of the ſame, and ſo expired. Aſſure thy ſelfe, thou ſhalt in like manner be immortal ſo long as there remaineth a<g ref="char:EOLhyphen"/>ny part of thy Teſtimony unperformed by thee.</p>
+            <p>Thirdly, thou wouldeſt live to ſee a happy eſtabliſhment of all differences in Church and State: yet be not de<g ref="char:EOLhyphen"/>jected if death prevent thy beholding thereof; but be aſsured, all things at laſt ſhall conclude to Gods honour, and the good of the Church. What if thou
+<pb n="18" facs="tcp:169960:12"/> be like thoſe Patriarks, <hi>Heb.</hi> 11.39. <hi>Theſe all having obtained a good report through faith, received not the promiſe.</hi> Though thou ſeeſt not this particular promiſe performed, it will be no preju<g ref="char:EOLhyphen"/>dice to thy happineſſe; but breath out thy ſoul in certain expectation thereof, and earneſt praying for the ſame. Nor let old <hi>Borzillai</hi> be ſo envious, if ſuper<g ref="char:EOLhyphen"/>annuated himſelf, 2 <hi>Sam.</hi> 37. to ſee ſuch things in his age, I ſay, let him not repine at <hi>Chimham</hi> his Sonne to behold them, yea let us be ſo far from grudging our poſterity their enjoying of that which is denyed to us, that let us rather enjoyn them to rejoyce a double ſhare at the performance thereof one in their own capacity, the other as Heirs of their Fathers hopes and expectations now brought to paſſe.</p>
+            <p>Laſtly, let not thy deſire to provide for thy Children make thee impatient to die, but bequeath them to his pro<g ref="char:EOLhyphen"/>vidence who beſtowed them upon thee: if thou canſt ſay with <hi>Jacob, Gen.</hi> 33.5. <hi>they are the Children which God hath</hi>
+               <pb n="19" facs="tcp:169960:12"/> 
+               <hi>graciouſly given thee.</hi> And can'ſt cleare thy conſcience that thou haſt done thy duty whilſt living: in their education, doubt not but God in due time will an<g ref="char:EOLhyphen"/>ſwer thy deſires in the reſt.</p>
+            <p>Come we now to lay down ſome motives to patience, and O that it were as eaſie to practiſe them as to preach them; How facile is it for us here by Gods goodneſſe in perfect health, magi<g ref="char:EOLhyphen"/>ſterially to dictate to others what they ſhould do; but God knoweth how hard we ſhould finde it to practiſe theſe precepts if in ſickneſſe our ſelves. Truly, as careful Mothers and Nurſes taſte themſelves firſt what they give to their Children, that it may not be too hot to burn their mouthes. ſo we Mi<g ref="char:EOLhyphen"/>niſters ought to try upon our own ſelves, thoſe Doctrines which we im<g ref="char:EOLhyphen"/>poſe on others, which ſhould make us more to ſympathiſe with the weak<g ref="char:EOLhyphen"/>neſſe of our people, if our conſciences accuſe us that we finde them too hot for our own mouthes, which notwith<g ref="char:EOLhyphen"/>ſtanding we will thruſt down the
+<pb n="20" facs="tcp:169960:13"/> throats of others. In all humility there<g ref="char:EOLhyphen"/>fore, and ſelfe conſciouſneſs of our own infirmities, we commend to ſick people theſe following motives to pati<g ref="char:EOLhyphen"/>ence.</p>
+            <p>Firſt, know that thy ſoul carrieth in it the ſeeds of all ſins, and therefore thy body hath in it the ſeeds of all ſickneſs. If therefore thy pain be not ſo great as humane nature is capable of. If thy diſ<g ref="char:EOLhyphen"/>eaſe be not ſo acute as ſome have been viſited with, let this move thee to pa<g ref="char:EOLhyphen"/>tience, that thou art not tortured to that extremity which ſome have endu<g ref="char:EOLhyphen"/>red. The diſeaſe of <hi>Illiaca paſſio</hi> in the height thereof, when the excrements of the body are countermanded an unna<g ref="char:EOLhyphen"/>tural way, is conceived one of the high<g ref="char:EOLhyphen"/>eſt pains: therefore termed <hi>Miſerere mei Deus,</hi> Lord have mercy upon me: the Lord keep us and all good People, in the happy ignorance of that pain, and let this increaſe both our patience under, and our thankfulneſs to God, that it is mercy that that intollerable torture is not inflicted upon us.</p>
+            <pb n="21" facs="tcp:169960:13"/>
+            <p>Secondly, conſider that thy diſeaſe is far gentler and painleſs then what thou haſt deſerved, what is thy diſeaſe, a Conſumption? Indeed a certain meſ<g ref="char:EOLhyphen"/>ſenger of death; but know that of all the Bayliffs, ſent to arreſt us for the debt of nature, none uſeth his priſoners with more civility and courteſie then the Conſumption, though too often an ill uſe is made thereof, for the priſoners to flatter themſelves into a poſſibility of an eſcape; but what a Conſumption haſt thou deſerved: <hi>Correct us O Lord, and yet in thy judgement, not in thy fury, leſt we be conſumed and brought to no<g ref="char:EOLhyphen"/>thing.</hi> A Conſumption of annihilation is our deſert.</p>
+            <p>What is thy diſeaſe, the Tooth-ach? indeed a grievous one of all that are not mortall; but bleſſed be God, it hath raiſed many from their beds, it hath ſent few to their graves, often hin<g ref="char:EOLhyphen"/>dered ſleep, ſeldom cauſed death; but know, if we had our due, it is not the <hi>a king of the teeth, but gnaſhing of the teeth which we deſerve.</hi> It is a <hi>burning Fe<g ref="char:EOLhyphen"/>ver?</hi>
+               <pb n="22" facs="tcp:169960:14"/> know that Hell-fire is the juſt re<g ref="char:EOLhyphen"/>ward of our ſins, and all is mercy which is on the ſide thereof.</p>
+            <p>Third motive to patience. Conſider, that which thou indureſt, is nothing to that which Chriſt hath indured for thee. Is thy taſte taken away from thee, ſo that thy pallat taketh no pleaſure in what thou drinkeſt? yea, any liquor is ſo far from pleaſing thy Guſt, it is nau<g ref="char:EOLhyphen"/>ſeous and offenſive unto thee; what is that to the bitter portion of vineger and gall which Chriſt taſted of for thy ſake, <hi>Mat.</hi> 26.34. yet made no mouths or wrie faces thereat. Doſt thou ſwim in a bath of thy own ſweat, in the ſharp<g ref="char:EOLhyphen"/>neſſe of thy ſits, ſo that thou art odi<g ref="char:EOLhyphen"/>ous unto thy ſelfe; what is this to the ſweat of our Saviour in his agony, <hi>Luke</hi> 22.44. when ſweat as it were <hi>drops of blood fell from him</hi> ſo violent, that in<g ref="char:EOLhyphen"/>viſible contuſion, and we ſee the ſtripes, though behold not the hand that ſtrick him.</p>
+            <p>So much for <hi>Hezekiah</hi> ſick, come we now to conſider <hi>Hezekiah</hi> ſound in a
+<pb n="23" facs="tcp:169960:14"/> more welcome condition. And here two things I ſhall commend to the con<g ref="char:EOLhyphen"/>ſideration of thoſe whom God hath re<g ref="char:EOLhyphen"/>ſtored from their beds of ſickneſſe, whereof the firſt.</p>
+            <p>1. Carefully perform thoſe promi<g ref="char:EOLhyphen"/>ſes which thou didſt make to God in the time of thy affliction, excellent the behaviour of the Marriners, <hi>Jonah</hi> 1.15,16. <hi>and the Sea ceaſed from her raging, then the men feared the Lord exceedingly, and offered a ſacrifice unto the Lord, and made vowes.</hi> Then when the Sea ceaſed, here is the wonder, what more uſual then for Seamen to ſtorm in a calm, and to be calm in a ſtorm, had they made vowes in the midſt of the tempeſt, the matter had not been great, ſuch Religi<g ref="char:EOLhyphen"/>on might be accounted but a <hi>fit of the winde,</hi> and the effect of foule weather; but now when the tempeſt was over<g ref="char:EOLhyphen"/>paſt, tranquillity on the Sea, ſerenity in the air, then to make vowes is wor<g ref="char:EOLhyphen"/>thy of our obſervation, and worthy of our imitation. One vow made and kept after the tempeſt, is worth a thouſand
+<pb n="24" facs="tcp:169960:15"/> promiſed in the ſame. Now the ſtorm of ſickneſſe is allayed in thy body, now make vowes, now keep thoſe which thou madeſt before, and it will be ac<g ref="char:EOLhyphen"/>ceptable to God.</p>
+            <p>Secondly, <hi>miſtake not thy reprieve for a pardon.</hi> Our Engliſh plain Proverb ſaith, <hi>The Pitcher goeth not ſo often to the Fountain, but it is broken at laſt.</hi> Let no Criticks condemn this for a homely expreſſion, finding it a Scripture phraſe uſed by <hi>Solomon</hi> in his deſcription of old age and death, <hi>Eccleſ.</hi> 12.6. <hi>before the Pitcher be broken at the Fountain.</hi> Ex<g ref="char:EOLhyphen"/>pounded by ſome to be the liver, wherein the blood, lifes liquor, is con<g ref="char:EOLhyphen"/>tained, remember thy ſelfe to be but a pitcher of frail and feeble conſtitu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Yet is there difference, even amongſt Pitchers, whereof ſome laſt longer then others. Firſt, that Pitcher that is made of ſtiffe and tough Clay, not of bad and brittle, and well baked in the Oven, is the ſtrongeſt, and will abide moſt knocks before broken. Secondly, that
+<pb n="25" facs="tcp:169960:15"/> Pitcher which is charily kept, and ſel<g ref="char:EOLhyphen"/>dom uſed, put as we ſay to no ſtreſſe, may be of longer continuance, howe<g ref="char:EOLhyphen"/>ver, neither the firm matter, nor ſound baking, nor chary keeping thereof, can advance the Pitcher into a Marble Urn, or pot of braſſe, but the fragility thereof ſtill remaineth, and it is but a Pitcher at the beſt.</p>
+            <p>Some men as ſucceed to ſtrong bo<g ref="char:EOLhyphen"/>dies from their nativity, not enervated with hereditary diſeaſes (the badges of their Parents intemperance) are Pitchers of the firmeſt Clay, and beſt making, ſuch as improve this their temper with temperance, not expoſing themſelves by exorbitant courſes and caſualties, are Pitchers charily kept, however they ſtill retain their break<g ref="char:EOLhyphen"/>ableneſs, and can never alter their property into a firmer conſiſtence; and therefore let none recovering from ſickneſſe miſinterpret their reprieve for a pardon.</p>
+            <pb n="26" facs="tcp:169960:16"/>
+            <p>There is a Perſon honourably ex<g ref="char:EOLhyphen"/>tracted, preſent in this place, to whom I may joyfully and comfortably ſay (as <hi>Nathan</hi> to <hi>David</hi> in a different caſe) <hi>Thou art the man.</hi> God hath dealt with him as with <hi>Hezekiah,</hi> and hath made his recovery a comment upon my Text, ſo that this day <hi>this Scripture is fulfilled in our eares,</hi> who heare and behold it, and I hope in his heart, who is thankfully ſenſible thereof, he was viſited with a long and dangerous ſickneſs, meeting with his declined age paſt poſſibility of recovery in the expectation of his neereſt friends, had this Shepherd bin ſmitten, how ſoon had the ſheep of his relations, and many of us who taſte of his bounty, bin ſcattered abroad; but bleſſed be God, who hath reſtored him far above our hopes, and according to our deſires; yet in the recovery of <hi>He<g ref="char:EOLhyphen"/>zekiah,</hi> meanes according to Gods Command, did concur with miracle, the receipt of a Figge was preſcribed by God, which by his bleſſing per<g ref="char:EOLhyphen"/>formed
+<pb n="27" facs="tcp:169960:16"/> the cure; ſo here God hath crowned the endeavors of a moſt lo<g ref="char:EOLhyphen"/>ving and careful conſort, and the di<g ref="char:EOLhyphen"/>rections of a moſt able and knowing Phyſitian, as inſtrumental to the ac<g ref="char:EOLhyphen"/>compliſhing of this his great mercy, to this his revived Servant, who here tendereth the firſt fruits of his Reſur<g ref="char:EOLhyphen"/>rection to God in his Church, to receive the Euchariſt, that is, the thanksgiving: as for all other mercies in Chriſt be<g ref="char:EOLhyphen"/>ſtowed upon him; ſo for this the laſt and freſheſt in his memory conferred on him, <hi>who hath bin ſick, and is recover<g ref="char:EOLhyphen"/>ed of his ſickneſſe.</hi>
+            </p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
